@@ -1,1 +1,1 @@
-MotorCommand[16] motors
+MotorCommand[] motors
